@@ -1,11 +1,11 @@
 // const let var 
 const a = 1
-// a = 2   !! we cant re-assign
-// const a = 3  !! we cant re-declare
+// a = 2   !! we can't re-assign
+// const a = 3  !! we can't re-declare
 
 let b = X
 b = y // yes we can !
-// let b = Z !! NO we cant re-declare
+// let b = Z !! NO we can't re-declare
 
 var c = g
 c = h
